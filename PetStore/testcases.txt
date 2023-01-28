@@ -1,0 +1,37 @@
+1.
+user: V T v.t@gmail.com 5
+pet: Becca Dog Labrador 2018-11-01 5
+pet: Bella Cat Persian 2017-11-02 0
+user: Val Tri val.t@gmail.com 50
+exit
+
+2. 
+user: V T v.t@gmail.com 10
+pet: Crew Cat Norwegian 2019-11-02 0
+pet: Beka Dog Labrador 2018-11-01 5
+pet: Bela Cat Persiska 2017-11-02 0
+pet: Mars Dog Husky 2020-01-01 6
+user: Val Tri i.t@gmail.com 50
+exit
+
+
+3. 
+user: Valentino Trifunovski val.tri@gmail.com 10
+pet: Becca Dog Labrador 2018-01-01 5
+pet: Bella Cat Norwegian 2019-12-03 0
+pet: Anne Cat Ocicat 2021-01-05 0
+pet: Marco Dog Husky 2015-02-03 10
+user: Pece Pecevski p.t@gmail.com 30
+user: Pero Perovski p.p@gmail.com 2
+user: Hello World h.w@gmail.com 5
+exit
+
+4.
+user: Valentino Trifunovski val.tri@gmail.com 10
+user: Val Tri v.t@gmail.com 5
+user: V T vt@gmail.com 8
+user: Pece Pecevski p.p@gmail.com 30
+pet: Becca Dog Labrador 2020-01-01 10
+pet: Anne Cat Ocicat 2022-01-05 0
+pet: Venus Dog Belgian 2015-03-05 5
+exit
